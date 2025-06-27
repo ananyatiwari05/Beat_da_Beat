@@ -31,12 +31,11 @@ Each button gives **audio + visual** feedback when clicked or flashed by the gam
 
 ## ✨ Features
 
-- 🧠 Memory training with increasing difficulty
-- 🎵 Interactive sounds with each color
-- 🎨 Visually distinct buttons
-- 📈 Level progression system
-- 💔 Game over animation and restart option
-- 🖥️ Responsive design
+- Interactive sounds with each color
+- Visually distinct buttons
+- Level progression system
+- Game over animation and restart option
+- Responsive design
 
 ---
 
